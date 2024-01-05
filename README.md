@@ -7,9 +7,9 @@
 I’m a Civil Engineer who is passionate about making cost cutting estimating & Drawing. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 ## 👨‍💻 Skills & Experiance:
-✅ AutoCAD
-✅ Excel
-✅ STAAD Pro
+.✅ AutoCAD
+.✅ Excel
+.✅ STAAD Pro
 ✅ ETABS
 ✅ Photoshop / Illustrator
 
